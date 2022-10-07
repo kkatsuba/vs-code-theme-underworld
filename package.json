@@ -1,15 +1,35 @@
 {
   "name": "underworld",
-  "displayName": "Underworld",
-  "license": "MIT",
-  "description": "",
   "version": "0.0.1",
-  "engines": {
-    "vscode": "^1.72.0"
+  "displayName": "Underworld",
+  "homepage": "https://github.com/kkatsuba/vs-code-theme-underworld/blob/main/README.md",
+  "description": "Underworld Theme",
+  "publisher": "underworld",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kkatsuba/vs-code-theme-underworld.git"
   },
-  "categories": [
-    "Themes"
-  ],
+  "bugs": {
+    "url": "https://github.com/kkatsuba/vs-code-theme-underworld/issues"
+  },
+  "engines": {
+		"vscode": "^1.13.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"underworld",
+		"dark",
+		"theme",
+		"color-theme"
+	],
+	"icon": "icon.png",
+	"galleryBanner": {
+		"color": "#0b0d0f",
+		"theme": "dark"
+	},
   "contributes": {
     "themes": [
       {
