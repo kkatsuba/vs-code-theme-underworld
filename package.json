@@ -1,5 +1,5 @@
 {
-  "name": "Underworld",
+  "name": "underworld",
   "displayName": "Underworld",
   "license": "MIT",
   "description": "",
@@ -16,6 +16,11 @@
         "label": "Underworld",
         "uiTheme": "vs-dark",
         "path": "./themes/underworld-color-theme.json"
+      },
+      {
+        "label": "Underworld (thick darkness)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/underworld-thick-darkness-color-theme.json"
       }
     ]
   }

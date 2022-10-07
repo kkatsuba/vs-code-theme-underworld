@@ -1,7 +1,10 @@
 # Underworld
 
+## Underworld
 ![Preview](/assets/underworld.png)
 
+## Underworld (thick darkness)
+![Preview](/assets/underworld-thick-darkness.png)
 
 ## What's in the folder
 
