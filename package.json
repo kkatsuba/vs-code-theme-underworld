@@ -1,19 +1,19 @@
 {
-  "name": "underworld",
-  "version": "0.0.1",
-  "displayName": "Underworld",
-  "homepage": "https://github.com/kkatsuba/vs-code-theme-underworld/blob/main/README.md",
-  "description": "Underworld Theme",
-  "publisher": "underworld",
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/kkatsuba/vs-code-theme-underworld.git"
-  },
-  "bugs": {
-    "url": "https://github.com/kkatsuba/vs-code-theme-underworld/issues"
-  },
-  "engines": {
+	"name": "underworld",
+	"version": "0.0.2",
+	"displayName": "Underworld",
+	"homepage": "https://github.com/kkatsuba/vs-code-theme-underworld/blob/main/README.md",
+	"description": "Underworld Theme",
+	"publisher": "underworld",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/kkatsuba/vs-code-theme-underworld.git"
+	},
+	"bugs": {
+		"url": "https://github.com/kkatsuba/vs-code-theme-underworld/issues"
+	},
+	"engines": {
 		"vscode": "^1.13.0"
 	},
 	"categories": [
@@ -30,18 +30,24 @@
 		"color": "#0b0d0f",
 		"theme": "dark"
 	},
-  "contributes": {
-    "themes": [
-      {
-        "label": "Underworld",
-        "uiTheme": "vs-dark",
-        "path": "./themes/underworld-color-theme.json"
-      },
-      {
-        "label": "Underworld (thick darkness)",
-        "uiTheme": "vs-dark",
-        "path": "./themes/underworld-thick-darkness-color-theme.json"
-      }
-    ]
-  }
+	"contributes": {
+		"themes": [
+			{
+				"label": "Underworld",
+				"uiTheme": "vs-dark",
+				"path": "./themes/underworld-color-theme.json"
+			},
+			{
+				"label": "Underworld (thick darkness)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/underworld-thick-darkness-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "0a18be9e-a53c-4dda-8c58-b1857ba56617",
+		"publisherDisplayName": "Underworld",
+		"publisherId": "629f637c-c8e7-4045-9db4-38e7c5b946b4",
+		"isPreReleaseVersion": false
+	}
 }
